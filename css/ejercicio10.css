@@ -12,13 +12,16 @@
     background-color: white;
     display: flex;
     flex-direction: column;
+    padding: 3%;
 }
 
 div {
     display: flex;
 }
 
-#segundo {}
+#segundo {
+    width: 70%;
+}
 
 img {
     width: 250px;
